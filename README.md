@@ -1,19 +1,19 @@
 # 2020-1-19
-
-## Project setup
+## 仿米家有品手机端
+```
+Vue全家桶, axios, cube-ui
+```
+## 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
